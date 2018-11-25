@@ -1,7 +1,7 @@
 {
   "editor.fontFamily": "Dank Mono, Operator Mono",
   "editor.tabSize": 2,
-  "editor.fontSize": 18,
+  "editor.fontSize": 20,
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "prettier.singleQuote": true,
@@ -15,5 +15,7 @@
   "editor.cursorStyle": "line",
   "editor.minimap.renderCharacters": false,
   "terminal.integrated.fontSize": 18,
-  "explorer.openEditors.visible": 0
+  "explorer.openEditors.visible": 0,
+  "files.eol": "\n",
+  "workbench.settings.editor": "json"
 }
