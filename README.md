@@ -13,6 +13,13 @@ As I'm a bash on Windows user my config is slightly different:
 code --extensions-dir 'D:\repos\vs-code-profiles\obs\exts' --user-data-dir 'D:\repos\vs-code-profiles\obs\data'
 ```
 
+My Fish alias looks like this:
+
+```bash
+alias obs 'code --extensions-dir "D:\repos\vs-code-profiles\obs\exts" --user-data-dir "D:\repos\vs-code-profiles\obs\data"'
+funcsave obs # to save the alias for next time
+```
+
 Because I have VSCode installed on my Windows partition I need to
 Windows file locations in place of bash.
 
