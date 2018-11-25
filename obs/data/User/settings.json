@@ -17,5 +17,7 @@
   "terminal.integrated.fontSize": 18,
   "explorer.openEditors.visible": 0,
   "files.eol": "\n",
-  "workbench.settings.editor": "json"
+  "workbench.settings.editor": "json",
+  "git.enableSmartCommit": true,
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe"
 }
