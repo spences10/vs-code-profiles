@@ -14,5 +14,11 @@
                 "height": 1056
             }
         }
+    },
+    "openedPathsList": {
+        "workspaces2": [
+            "file:///d%3A/repos/vs-code-profiles"
+        ],
+        "files2": []
     }
 }
