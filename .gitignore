@@ -6,6 +6,7 @@ phantomjs*
 **/data/Local Storage
 **/data/Cookies
 **/data/Cookies-Journal
+**/data/Cookies-journal
 **/data/machineid
 **/data/Preferences
 **/data/storage.json
