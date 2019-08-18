@@ -26,5 +26,6 @@
   "prettier.useTabs": false,
   "prettier.trailingComma": "none",
   "prettier.proseWrap": "always",
-  "git.autofetch": true
+  "git.autofetch": true,
+  "git.confirmSync": false
 }
