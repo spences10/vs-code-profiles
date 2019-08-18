@@ -1,11 +1,11 @@
 # VSCode Profiles
 
-Taken from Andy Van Slaars GitHub [repo] you can use profiles in
+To create specific sets of settings and VS Code extensions, this can be stored in a repo or locally on your machine.
+
+Originally taken from Andy Van Slaars GitHub [repo] you can use profiles in
 VSCode.
 
-He uses an alias in ZSH but I use Fish so will be doing so for that.
-
-I will set up a folder for [OBS Studio]
+I have set up a folder for [OBS Studio]
 
 ## Linux
 
