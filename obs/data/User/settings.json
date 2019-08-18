@@ -10,10 +10,10 @@
   "editor.cursorBlinking": "solid",
   "editor.cursorStyle": "line",
   "editor.minimap.renderCharacters": false,
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 20,
   "explorer.openEditors.visible": 0,
   "files.eol": "\n",
   "workbench.settings.editor": "json",
   "git.enableSmartCommit": true,
-  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\wsl.exe"
+  "workbench.iconTheme": "material-icon-theme",
 }
