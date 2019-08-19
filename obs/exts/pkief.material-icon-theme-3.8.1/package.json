@@ -202,7 +202,7 @@
 	"dependencies": {
 		"lodash.merge": "4.6.2",
 		"open": "6.4.0",
-		"semver": "6.2.0"
+		"semver": "6.3.0"
 	},
 	"devDependencies": {
 		"@types/mocha": "5.2.7",
