@@ -244,7 +244,7 @@
 		"vscode": "1.1.36"
 	},
 	"dependencies": {
-		"ignore": "^3.3.8",
+		"ignore": "^5.0.0",
 		"prettier": "1.18.2",
 		"prettier-eslint": "^8.8.2",
 		"prettier-stylelint": "^0.4.2",
