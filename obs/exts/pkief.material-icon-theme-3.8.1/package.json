@@ -217,7 +217,7 @@
 		"tslint": "5.19.0",
 		"typescript": "3.6.2",
 		"vscode": "1.1.36",
-		"webpack": "4.39.2",
+		"webpack": "4.39.3",
 		"webpack-cli": "3.3.7"
 	},
 	"__metadata": {
