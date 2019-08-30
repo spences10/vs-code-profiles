@@ -237,7 +237,7 @@
 	},
 	"devDependencies": {
 		"@types/mocha": "5.2.7",
-		"@types/node": "8.10.52",
+		"@types/node": "8.10.53",
 		"@types/resolve": "0.0.8",
 		"cross-env": "5.2.0",
 		"mocha": "6.2.0",
