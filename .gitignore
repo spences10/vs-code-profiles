@@ -13,3 +13,5 @@ phantomjs*
 **/data/*.sock
 **/data/User/workspaceStorage
 **/data/logs
+
+**/exts
