@@ -1,0 +1,33 @@
+{
+  "editor.fontFamily": "Victor Mono, Dank Mono, Operator Mono",
+  "editor.tabSize": 2,
+  "editor.fontSize": 18,
+  "editor.fontLigatures": false,
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Night Owl",
+  "javascript.validate.enable": false,
+  "window.zoomLevel": 1.8,
+  "editor.cursorBlinking": "solid",
+  "editor.cursorStyle": "line",
+  "editor.minimap.renderCharacters": false,
+  "terminal.integrated.fontSize": 18,
+  "explorer.openEditors.visible": 0,
+  "files.eol": "\n",
+  "workbench.settings.editor": "json",
+  "git.enableSmartCommit": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "prettier.arrowParens": "avoid",
+  "prettier.bracketSpacing": true,
+  "prettier.printWidth": 70,
+  "prettier.singleQuote": true,
+  "prettier.semi": false,
+  "prettier.tabWidth": 2,
+  "prettier.useTabs": false,
+  "prettier.trailingComma": "es5",
+  "prettier.proseWrap": "always",
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
