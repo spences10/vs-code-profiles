@@ -1,9 +1,10 @@
 # VSCode Profiles
 
-To create specific sets of settings and VS Code extensions, this can be stored in a repo or locally on your machine.
+To create specific sets of settings and VS Code extensions, this can
+be stored in a repo or locally on your machine.
 
-Originally taken from Andy Van Slaars GitHub [repo] you can use profiles in
-VSCode.
+Originally taken from Andy Van Slaars GitHub [repo] you can use
+profiles in VSCode.
 
 I have set up a folder for [OBS Studio]
 
