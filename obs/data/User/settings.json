@@ -5,7 +5,7 @@
   "editor.fontLigatures": true,
   "editor.formatOnSave": true,
   "javascript.validate.enable": false,
-  "window.zoomLevel": 1,
+  "window.zoomLevel": 0,
   "editor.cursorBlinking": "solid",
   "editor.cursorStyle": "line",
   "editor.minimap.renderCharacters": false,
@@ -29,5 +29,9 @@
   "editor.codeActionsOnSave": {
     "source.organizeImports": true
   },
-  "workbench.colorTheme": "Night Owl"
+  "workbench.colorTheme": "Night Owl",
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always"
 }
